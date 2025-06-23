@@ -1,0 +1,6 @@
+aiogram==2.25.1
+selenium
+aiosqlite
+python-dotenv
+aiohttp
+parse
